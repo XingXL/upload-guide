@@ -2,7 +2,7 @@
   
   1.mkdir repository's-name
   
-  2.git clone https://github.com/XingXL/repository's-name.git  (一般第一步clone,防止文件夹多余)  
+  2.git clone https://github.com/XingXL/repository's-name.git  (**一般第一步clone)  
     
   3.将待上传文件复制到文件夹repository's-name中
   
