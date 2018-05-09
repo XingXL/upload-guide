@@ -15,3 +15,6 @@ upload-guide
   Username for 'https://github.com': XingXL  
   Password for 'https://XingXL@github.com':
     
+  7.更新文件或文件夹:
+    git pull
+    git push
