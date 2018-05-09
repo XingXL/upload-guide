@@ -16,5 +16,6 @@ upload-guide
   Password for 'https://XingXL@github.com':
     
   7.更新文件或文件夹:
-    git pull
-    git push
+  git pull
+  
+  git push
