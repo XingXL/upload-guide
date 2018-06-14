@@ -1,10 +1,9 @@
-upload-guide
----------------------------  
-  1.mkdir repository's-name
+  ubuntu上传方法
+--------------------------- 
+  1.github: creat a repository's-name
   
   2.git clone https://github.com/XingXL/repository's-name.git  
-  ***一般第一步clone***
-    
+  ***一般第一步clone***   
   3.将待上传文件复制到文件夹repository's-name中
     
   4.git add .
@@ -20,3 +19,21 @@ upload-guide
   git pull
   
   git push
+  
+  windows上传方法
+--------------------------- 
+  1.github: creat a repository's-name
+  
+  2.In ~/Documents/git_repository: git clone https://github.com/XingXL/repository's-name.git
+  
+  3.In ~/Documents/git_repository/repository's-name: 
+      
+      git init
+      
+      git add .
+      
+      git commit -m "added ."
+      
+      git remote add origin https://github.com/XingXL/repository's-name.git
+      
+      git push -u origin master
