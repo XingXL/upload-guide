@@ -32,7 +32,7 @@
       
       git add .
       
-      git commit -m "first commit ."  // git commit -m "added"
+      git commit -m "first commit"  // git commit -m "added"
       
       git remote add origin https://github.com/XingXL/repository's-name.git
       
