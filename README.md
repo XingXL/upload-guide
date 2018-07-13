@@ -32,8 +32,10 @@
       
       git add .
       
-      git commit -m "added ."
+      git commit -m "first commit ."  // git commit -m "added"
       
       git remote add origin https://github.com/XingXL/repository's-name.git
+      
+      if  fatal: remote origin already exists. --> git remote rm origin --> repeat 上一步
       
       git push -u origin master
